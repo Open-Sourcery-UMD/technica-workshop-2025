@@ -6,7 +6,7 @@
 
 Welcome to **Tornelius, The Open Sourcerer of Technica**, the workshop activity for **Open Sourcery @ Technica UMD 2025**!  
 
-In this activity, you'll team up in small groups (2–4 people) to make your first open source contribution by adding a new *keyspell* to Tornelius, the Open Sourcerer of Technica.
+In this activity, you'll team up in small groups (2–4 people) to make an open-source contribution by adding a new *keyspell* to Tornelius, the Open Sourcerer of Technica.
 
 Each group will be assigned a unique keyboard letter (e.g. `q`, `w`, `e`, …) and will customize a keyspell for it (a spell that casts when that letter key is pressed).
 
@@ -86,7 +86,7 @@ Even if you do nothing, no worries; your assigned keyspell will still work as a 
 
 `index.html` loads each keyspell file.
 
-Each `_Spell.js` file listens for its key press and creates a visual element (div) that flies away from the wizard.
+Each `_Spell.js` file listens for its key press and creates a visual element (div) that flies away from Tornelius.
 
 You only need to modify your keyspell file; everything else is ready!
 
