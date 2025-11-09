@@ -5,6 +5,7 @@
 </p>
 
 Welcome to **Tornelius, The Open Sourcerer of Technica**, the workshop activity for **Open Sourcery @ Technica UMD 2025**!  
+
 In this activity, you'll team up in small groups (2–4 people) to make your first open source contribution by adding a new *keyspell* to Tornelius, the Open Sourcerer of Technica.
 
 Each group will be assigned a unique keyboard key (e.g. `q`, `w`, `e`, …) and will customize a keyspell for it (a spell that casts when that key is pressed).
@@ -115,4 +116,4 @@ Happy hacking!
 
 — Open Sourcery
 
-https://linktr.ee/umdopensourcery
+<a href="https://linktr.ee/umdopensourcery" target="_blank">https://linktr.ee/umdopensourcery</a>
