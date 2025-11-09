@@ -8,7 +8,7 @@ Welcome to **Tornelius, The Open Sourcerer of Technica**, the workshop activity 
 
 In this activity, you'll team up in small groups (2–4 people) to make your first open source contribution by adding a new *keyspell* to Tornelius, the Open Sourcerer of Technica.
 
-Each group will be assigned a unique keyboard key (e.g. `q`, `w`, `e`, …) and will customize a keyspell for it (a spell that casts when that key is pressed).
+Each group will be assigned a unique keyboard letter (e.g. `q`, `w`, `e`, …) and will customize a keyspell for it (a spell that casts when that letter key is pressed).
 
 <details>
   <summary>Table of Contents</summary>
@@ -37,7 +37,7 @@ When someone presses your assigned key:
 2. The keyspell will fly upward in a random direction at a random speed.
 3. The keyspell should have a unique style and effect created by your group!
 
-Through pull requests, we’ll merge everyone’s keyspells into this repository; true open-source magic.
+Through Git commits, we’ll combine everyone’s keyspells into this repository; true open-source magic.
 
 <a id="getting-started"></a>
 
@@ -73,7 +73,7 @@ Inside your file, you’ll see commented sections like:
 These are where your creativity comes in!
 You can:
 - Change the color, size, or shape of the keyspell. (basic)
-- Change the sound effect when your keyspell is cast. (basic)
+- Change the sound effect for when your keyspell is cast. (basic)
 - Add animations, rotations, sparkles, or glow effects. (medium)
 - Make it bounce off the walls or react to gravity. (advanced)
 - Make it explode or multiply! (advanced)
@@ -86,7 +86,7 @@ Even if you do nothing, no worries; your assigned keyspell will still work as a 
 
 `index.html` loads each keyspell file.
 
-Each file listens for its key press and creates a visual element (div) that flies away from the wizard.
+Each `_Spell.js` file listens for its key press and creates a visual element (div) that flies away from the wizard.
 
 You only need to modify your keyspell file; everything else is ready!
 
