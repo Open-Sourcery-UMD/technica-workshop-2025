@@ -9,6 +9,26 @@ In this activity, you'll team up in small groups (2–4 people) to make your fir
 
 Each group will be assigned a unique keyboard key (e.g. `q`, `w`, `e`, …) and will customize a keyspell for it (a spell that casts when that key is pressed).
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#the-goal">The Goal</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+    </li>
+    <li>
+      <a href="#how-it-works">How It Works</a>
+    </li>
+    <li>
+      <a href="#submitting-your-keyspell">Submitting Your Keyspell</a>
+    </li>
+  </ol>
+</details>
+
+<a id="the-goal"></a>
+
 ## 🏆 The Goal
 
 When someone presses your assigned key:
@@ -17,6 +37,8 @@ When someone presses your assigned key:
 3. The keyspell should have a unique style and effect created by your group!
 
 Through pull requests, we’ll merge everyone’s keyspells into this repository; true open-source magic.
+
+<a id="getting-started"></a>
 
 ## 🔮 Getting Started
 
@@ -57,7 +79,9 @@ You can:
 
 Even if you do nothing, no worries; your assigned keyspell will still work as a simple black dot that flies upward with a *whoosh* sound.
 
-### ⚙️ How It Works
+<a id="how-it-works"></a>
+
+## ⚙️ How It Works
 
 `index.html` loads each keyspell file.
 
@@ -65,7 +89,9 @@ Each file listens for its key press and creates a visual element (div) that flie
 
 You only need to modify your keyspell file; everything else is ready!
 
-### ✅ Submitting Your Keyspell
+<a id="submitting-your-keyspell"></a>
+
+## 🪄 Submitting Your Keyspell
 
 Once you're happy with your keyspell:
 
@@ -87,4 +113,6 @@ git pull
 
 Happy hacking!
 
-— Open Sourcery @ Technica UMD
+— Open Sourcery
+
+https://linktr.ee/umdopensourcery
