@@ -14,10 +14,9 @@ function castAKeyspell() {
     position: "absolute",
     bottom: "150px",
     left: "50%",
-    width: "10px",
-    height: "10px",
-    borderRadius: "50%",
-    background: "black",
+    width: "80px",
+    height: "80px",
+    background: "pink",
   };
 
   // 🎨 Add more custom styling here!
