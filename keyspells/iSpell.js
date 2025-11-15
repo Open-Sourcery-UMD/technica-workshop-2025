@@ -15,9 +15,9 @@ function castIKeyspell() {
     bottom: "150px",
     left: "50%",
     width: "10px",
-    height: "10px",
+    height: "90x",
     borderRadius: "50%",
-    background: "black",
+    background: "orange",
   };
 
   // 🎨 Add more custom styling here!
