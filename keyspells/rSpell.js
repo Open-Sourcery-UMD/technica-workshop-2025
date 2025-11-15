@@ -1,10 +1,10 @@
 document.addEventListener('keydown', (event) => {
   if (event.key.toLowerCase() === 'r') {
-    castKeyspell();
+    castRKeyspell();
   }
 });
 
-function castKeyspell() {
+function castRKeyspell() {
   const keyspell = document.createElement('div');
   keyspell.classList.add('keyspell');
   document.body.appendChild(keyspell);

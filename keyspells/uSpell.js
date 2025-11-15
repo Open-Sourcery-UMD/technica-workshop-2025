@@ -1,10 +1,10 @@
 document.addEventListener('keydown', (event) => {
   if (event.key.toLowerCase() === 'u') {
-    castKeyspell();
+    castUKeyspell();
   }
 });
 
-function castKeyspell() {
+function castUKeyspell() {
   const keyspell = document.createElement('div');
   keyspell.classList.add('keyspell');
   document.body.appendChild(keyspell);
